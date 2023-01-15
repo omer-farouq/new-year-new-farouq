@@ -18,7 +18,13 @@
     padding: 100px;
     margin-bottom: 100px;
     height: 100vh;
+    width: 100vw;
+
     /* border: 1px solid lightblue; */
+}
+
+.header-titls{
+    margin-bottom: 20px;
 }
 .header-title{
     /* margin: 500px; */
@@ -26,10 +32,15 @@
     font-size: 70px;
     
     color: #FFFFFF;
+    
 
 }
+.header-description-info{
+    margin-bottom: 20px;
+}
 .header-description{
-    font-size: 30px;
+    
+    font-size: 15px;
     padding: 40px 0;
     color: #FFFFFF;
 }
